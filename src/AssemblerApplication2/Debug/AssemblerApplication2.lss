@@ -1,0 +1,11 @@
+
+AVRASM ver. 2.2.8  C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm Mon May 22 18:34:31 2023
+
+[builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m128def.inc'
+C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm(10): Including file 'C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\lcd.asm'
+C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\lcd.asm(13): error: JB1: Unknown instruction or macro
+C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm(10): 'C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\lcd.asm' included form here
+C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\lcd.asm(13): error: u: Unknown instruction or macro
+C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm(10): 'C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\lcd.asm' included form here
+C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\lcd.asm(13): error: syntax error, unexpected ','
+C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm(10): 'C:\Users\zoe73\OneDrive\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\lcd.asm' included form here
