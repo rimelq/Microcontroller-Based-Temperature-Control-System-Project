@@ -4,6 +4,19 @@
 
 ReadTea is a microcontroller-based application designed to assist users in achieving their desired beverage temperature. The system notifies the user with an alert melody when the drink has cooled to the target temperature, enabling them to attend to other tasks without worrying about overheating or forgetting their drink.
 
+---
+## Illustrations from the Report
+
+### 1. Hardware Overview
+*(Extracted from the “Groupe 31 Rapport Microcontrôleurs – Projet ReadTea.pdf”)*  
+![Hardware Overview](images/hardware.png)
+
+### 2. System Workflow Diagram
+*(Example figure showing the main loop, interrupts, etc.)*  
+![System Workflow](images/structure.png)
+
+---
+
 ## Features
 
 - **Temperature Target Input**: Users set their preferred temperature using an **IR remote control**.
@@ -17,8 +30,8 @@ ReadTea is a microcontroller-based application designed to assist users in achie
 ## Technical Highlights
 
 - **Interrupt-Driven Buttons**:
-  - **INT0** (SW0): Enables resetting or modifying the target temperature.
-  - **INT1** (SW1): Stops the melody and resets the system to the main menu.
+  - **INT0 (SW0)**: Enables resetting or modifying the target temperature.
+  - **INT1 (SW1)**: Stops the melody and resets the system to the main menu.
 - **Temperature Reading**:
   - The system uses a **1-Wire temperature sensor** to read and decode the current temperature with high precision.
 - **Melody Playback**:
