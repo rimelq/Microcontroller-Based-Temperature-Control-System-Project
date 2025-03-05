@@ -8,11 +8,9 @@ ReadTea is a microcontroller-based application designed to assist users in achie
 ## Illustrations from the Report
 
 ### 1. Hardware Overview
-*(Extracted from the “Groupe 31 Rapport Microcontrôleurs – Projet ReadTea.pdf”)*  
 ![Hardware Overview](hardware.png)
 
 ### 2. System Workflow Diagram
-*(Example figure showing the main loop, interrupts, etc.)*  
 ![System Workflow](structure.png)
 
 ---
