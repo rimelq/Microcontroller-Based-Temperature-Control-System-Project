@@ -3,6 +3,7 @@
 ## Project Overview
 
 ReadTea is a microcontroller-based application designed to assist users in achieving their desired beverage temperature. The system notifies the user with an alert melody when the drink has cooled to the target temperature, enabling them to attend to other tasks without worrying about overheating or forgetting their drink.
+![Main picture](main.png)
 
 ---
 ## Illustrations from the Report
